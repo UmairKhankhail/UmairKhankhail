@@ -8,4 +8,4 @@
 
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=UmairKhankhail&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmairKhankhail&theme=shades-of-purple&langs_count=8)](https://github.com/UmairKhankhail/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmairKhankhai&theme=shades-of-purple&langs_count=8)](https://github.com/UmairKhankhail/github-readme-stats)
