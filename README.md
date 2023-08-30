@@ -6,5 +6,3 @@
 - 💬 Always available to help you
 - 📫 How to reach me: umairkhankail@gmail.com
 
-
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=UmairKhankhail&show_icons=true&theme=tokyonight)
